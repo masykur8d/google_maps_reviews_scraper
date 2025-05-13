@@ -24,8 +24,8 @@
 1.  このリポジトリをクローンします。
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/masykur8d/google_maps_reviews_scraper.git
+    cd google_maps_reviews_scraper
     ```
 
 2.  依存関係をインストールします。
