@@ -1,4 +1,5 @@
 # Google Maps Reviews Scraper
+[日本語版](README_ja.md)
 
 ## Overview
 
