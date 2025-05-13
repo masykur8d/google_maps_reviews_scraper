@@ -24,8 +24,8 @@ This Python script automates the process of scraping Google Maps reviews for spe
 1.  Clone this repository:
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/masykur8d/google_maps_reviews_scraper.git
+    cd google_maps_reviews_scraper
     ```
 
 2.  Install the dependencies:
