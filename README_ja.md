@@ -1,4 +1,5 @@
 # Google Maps レビュー スクレイパー
+[Original English Version](README.md)
 
 ## 概要
 
